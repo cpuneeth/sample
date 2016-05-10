@@ -15,6 +15,8 @@ namespace simple
             Console.WriteLine("WELCOME TO  GIT3");
             Console.WriteLine("WELCOME TO  GIT2");
 
+            Console.WriteLine("WELCOME TO  GIT4");
+            Console.WriteLine("WELCOME TO  GIT5");
         }
     }
 }
