@@ -40,6 +40,9 @@ namespace simple
             Console.WriteLine("WELCOME TO  GIT");
             Console.WriteLine("WELCOME TO  GIT1");
 
+
+            Console.WriteLine("WELCOME TO  GIT");
+            Console.WriteLine("WELCOME TO  GIT1");
         }
 
     }
